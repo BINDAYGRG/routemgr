@@ -1,6 +1,6 @@
 # routemgr
 
-routemgr is a PHP-based web application designed to streamline the process of booking and reserving bus seats. The application leverages JavaScript and CSS for an enhanced user experience, providing passengers with a simple and efficient way to manage their travel plans.
+routemgr is a PHP-based web application designed to streamline the process of booking and reserving bus seats. The application leverages JavaScript and CSS for an enhanced user experience, providing passengers with a simple and efficient way to reserve and buy bus seats.
 
 ## Table of Contents
 

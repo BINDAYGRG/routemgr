@@ -1,0 +1,68 @@
+@import url(font.css);
+nav {
+  font-family: Capriola, Helvetica, sans-serif;
+  font-size:15px;
+  font-weight: 900;
+}
+ul li:hover{
+  padding: 0 0 0 0;
+    border: 4px solid red;
+    outline-color: #00ff00;
+}
+
+#maincontent{
+  margin-top: -40px;
+  margin-left: 40px;
+  font-size: 13pt;
+  width: 95%;
+}
+
+#wrap {
+   width:100%;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:50%;
+}
+#right_col ul,
+#right_col ul, li{
+   list-style-type: none;
+   text-align: left;
+}
+#right_col {
+   float:right;
+   width:50%;
+}
+#right_col, #left_col h4{
+  text-align: left;
+  margin-right: 0px;
+}
+#footer {
+    background-color:#1f4050;
+    color:white;
+    width: 100%;
+    height: auto;
+    margin-bottom: -400px;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+body {
+  min-height: auto;
+  padding-top: 70px;
+  background-color: #fbfbfb;
+}
+#container1 {
+    width:30%;
+    float:left;
+    padding:10px;   
+    margin-left: 40px; 
+    margin-bottom: 40px;
+}
+#container2 {
+    width:200px;
+    float:right;
+    padding:10px;   
+    margin-right: 70px; 
+}
